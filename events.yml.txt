@@ -158,3 +158,10 @@
   when: !!str 2017-01-12 18:30:00
   url: https://www.eventbrite.com/e/biglietti-torino-hacknight-rust-30794009712
   free: true
+
+201701311930:
+  organizer: Torino Coding Society
+  title: "How git works"
+  when: !!str 2017-01-31 19:30:00
+  url: http://torinocodingsociety.it/events/torino-coding-society-31gen17/
+  free: true
